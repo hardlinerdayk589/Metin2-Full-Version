@@ -240,4 +240,4 @@ This repository serves as the official landing page for Metin2. The software is 
 **Get the most recent version of Metin2 today!**
 
 ---
-**Last updated:** 2026-09-15 20:34:50 UTC
+**Last updated:** 2026-09-15 23:16:19 UTC
